@@ -13,25 +13,25 @@ msgstr ""
 msgid "1"
 "キャンセル"
 msgstr ""
-"キャンセル"
+"Cancel"
 
 # 2
 msgid "2"
 "はい"
 msgstr ""
-"はい"
+"Yes"
 
 # 3
 msgid "3"
-"いいえ"
+""
 msgstr ""
-"いいえ"
+"No"
 
 # 4
 msgid "4"
-"もどる"
+"Return"
 msgstr ""
-"もどる"
+"Return"
 
 # 5
 msgid "5"
@@ -43,13 +43,13 @@ msgstr ""
 msgid "6"
 "新規データ"
 msgstr ""
-"新規データ"
+"New data"
 
 # 7
 msgid "7"
 "破損データ"
 msgstr ""
-"破損データ"
+"Corrupted data"
 
 # 8
 msgid "8"
@@ -63,27 +63,27 @@ msgstr ""
 msgid "10"
 "セーブデータを上書きしますか?"
 msgstr ""
-"セーブデータを上書きしますか?"
+"Overwrite save data?"
 
 # 11
 msgid "11"
 "セーブしました"
 msgstr ""
-"セーブしました"
+"Saved"
 
 # 12
 msgid "12"
 "ロードしました"
 msgstr ""
-"ロードしました"
+"loaded"
 
 # 13
 msgid "13"
 "セーブ中です\n"
 "記録メディアを抜かないでください"
 msgstr ""
-"セーブ中です\n"
-"記録メディアを抜かないでください"
+"Save all"
+"Please do not remove media"
 
 # 14
 msgid "14"
@@ -98,22 +98,22 @@ msgid "15"
 "「GOD EATER BURST アペンド版」は\n"
 "「GOD EATER」をお持ちであることを確認する必要があります"
 msgstr ""
-"「GOD EATER BURST アペンド版」は\n"
-"「GOD EATER」をお持ちであることを確認する必要があります"
+"ADD 「GOD EATER BURST Version"
+"You need to have 「GOD EATER」 UMD  "
 
 # 16
 msgid "16"
 "「GOD EATER」のUMD®に入れ換えてください"
 msgstr ""
-"「GOD EATER」のUMD®に入れ換えてください"
+"Please Insert GOD EATER UMD"
 
 # 17
 msgid "17"
 "「GOD EATER」のUMD®を確認しました\n"
 "「GOD EATER BURST アペンド版」のUMD®に入れ換えて、○ボタンを押してください"
 msgstr ""
-"「GOD EATER」のUMD®を確認しました\n"
-"「GOD EATER BURST アペンド版」のUMD®に入れ換えて、○ボタンを押してください"
+"God Eater Umd confirmed"
+"GOD EATER BURST EDITION  confirmed please press the ○ button"
 
 # 18
 msgid "18"
@@ -121,7 +121,7 @@ msgid "18"
 "PSP® (PlayStation®Portable)を変更した場合には\n"
 "再度確認が必要になります"
 msgstr ""
-"「GOD EATER」の確認が終了しました\n"
+"「GOD EATER」confirmation completed"
 "PSP® (PlayStation®Portable)を変更した場合には\n"
 "再度確認が必要になります"
 
